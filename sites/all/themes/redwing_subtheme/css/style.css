@@ -1,0 +1,385 @@
+
+#toolbar a{
+	font-family: helvetica;
+}
+header{
+	margin-top:0 !important;
+	margin-bottom: 0 !important;
+	border-radius: 0 !important;
+}
+header#navbar ul.navbar-nav li a{
+    font-family: 'acknowledgementmedium', Helvetica, Arial, sans-serif;
+    color:#D9585D;
+}
+.front h2, .front h4, .front a{
+    font-family: 'acknowledgementmedium', Helvetica, Arial, sans-serif;
+}
+.front .well h2{
+    margin-top:0;
+}
+#block-block-2 .well{
+    overflow:hidden;
+}
+#block-block-2 .well img{
+    width:15%;
+	float:left;
+	margin-right:3%;
+}
+
+.page-node-20 section.block-views{
+	margin-bottom:20px;
+}
+.wrapper{
+	width: 100;
+}
+.footer.container{
+	margin-top: 0;
+	padding:0;
+    color:white;
+    border-top:0;
+}
+.footer-top.wrapper{
+	background:gray;
+}
+.footer-top .col-sm-12{
+	padding:2.5% 0;
+}
+.footer-top .col-sm-12 ul{
+	list-style:none;
+}
+.page-node-4 .well{
+	overflow: hidden;
+}
+body{
+	background:url('../images/wood-tiles-small.png') repeat;
+}
+.main-container.container{
+	background:black;
+	clear: both;
+	overflow: hidden;
+	color:white;
+    padding-bottom:2%;
+}
+.front #block-views-media-block-1{
+	margin-top:5%;
+}
+.top-rotator.container{
+	padding:0;
+    height:275px;
+}
+.sidebar-hunts-1 img, .sidebar-hunts-2 img, .sidebar-hunts-3 img, .sidebar-hunts-4 img{
+	width:100%;
+}
+
+.page-node-32 .view-archery-elk-gallery .views-row img, .page-node-11 .view-archery-elk-gallery .views-row img, .page-node-12 .view-archery-elk-gallery .views-row img, .page-node-13 .view-archery-elk-gallery .views-row img, .page-node-20 .view-archery-elk-gallery .views-row img, .page-node-9 .views-row img, .page-hunts-archery-elk .views-row img, .page-hunts-rifle-elk .views-row img, .page-hunts-aoudad .views-row img, .page-hunts-mule-deer .views-row img{
+	width:100%;
+	height:auto;
+}
+.page-node-20 .view-footer .btn, .page-node-32 .view-footer .btn, .page-node-11 .view-footer .btn, .page-node-12 .view-footer .btn, .page-node-9 .view-footer .btn{
+	float: right;
+	margin-right:2%;
+	margin-top: 1.5%;
+}
+.footer .footer-mid{
+	text-align: center;
+}
+.page-node-9 .col-sm-12 .block-views{
+	margin:2% 0 1% 0;
+}
+.page-node-9 #block-views-front-rotator-block{
+    margin-top:0;
+}
+.page-node-9 #block-views-archery-elk-gallery-block-6{
+    margin-top:0 !important;
+}
+.page-node-20 h2{
+	margin-top: 0;
+}
+.col-sm-3.photo{
+	margin-bottom: 5%;
+}
+.front .view-media iframe{
+	width:100%;
+}
+#navbar.container{
+	background:#402C00;
+	border:none;
+}
+.navbar.container a{
+	background:rgb(37, 10, 10);
+}
+ul.navbar-nav li a.active{
+	background-color:none !important;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus
+.footer .navbar-default{
+	background-color:#EDE5DB !important;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+	background-color:#EDE5DB !important;
+	border-color:rgb(37, 10, 10) !important;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+	border-color:rgb(37, 10, 10) !important;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
+    background-color:#EDE5DB !important;
+}
+.navbar-default .navbar-toggle{
+    border-color:#8D3111 !important;
+}
+.navbar-default .navbar-toggle .icon-bar{
+    background-color:#8D3111 !important;
+}
+.navbar-default a:hover{
+    background:#EDE5DB !important;
+}
+.region-footer .navbar-default{
+    background: #402C00;
+    border: none;
+}
+.region-footer .navbar-default a{
+    text-decoration:none;
+    color:red;
+}
+.region-footer .navbar-default a:hover{
+    background:none !important;
+}
+.footer .footer-mid{
+	margin:2% 0;
+}
+.footer .footer-mid p{
+	color:white;
+}
+ul.navbar-nav li a{
+	padding-top: 20px;
+	padding-bottom:20px;
+	font-size:15px;
+}
+.region-sidebar-first.well{
+	background:none;
+	border:none;
+}
+.front #block-block-2{
+	color:black;
+}
+a.navbar-brand{
+	padding:20px 15px;
+	font-size: 20px;
+}
+.main-container.well{
+	padding-top: 3%;
+}
+.front .views-field-field-video .well{
+	padding:10px;
+}
+.front .region-sidebar-first img{
+    border:#EDE5DB 2px solid;
+    outline:#402C00 7px solid;
+    margin-bottom:6%;
+}
+.hunt-pic{
+    margin-bottom: 2rem;
+}
+.hunt-pic img{
+    width:100%;
+    height:auto;
+}
+.front .region-sidebar-first h4{
+    margin-bottom:7%;
+    width:100%;
+    text-align:center;
+    margin-left:-2%;
+}
+.col-sm-6.photo{
+}
+.page-hunts h1.page-header{
+    margin-left:1%;
+    margin:40px 0 15px 10px !important;
+    border-bottom:0 !important;
+}
+.well{
+	border-radius:0 !important;
+}
+.node-type-photo .col-sm-12 img{
+    max-width:100%;
+    height:auto;
+}
+.btn{
+    padding:5px 8px !important;
+}
+.player>iframe{
+    width:100%;
+}
+.page-media .view-media .views-row{
+    margin-bottom:3%;
+}
+.page-media .view-media .views-row-last{
+    margin-bottom:0;
+}
+.page-media .view-media .views-field-title{
+    margin-bottom:1%;
+    text-align:center;
+}
+.page-media .view-media .views-field-title a{
+    font-size:20px;
+}
+.not-front .view-media .views-field-field-video, .not-front .player{
+    margin-bottom:1%;
+}
+.btn-primary{
+    background-color:#EDE5DB !important;
+    border-color:#EDE5DB !important;
+    color:blue !important;
+}
+.page-node-10 .btn-primary{
+    margin-bottom: 2rem;
+    margin-top:2%;
+    float:right;
+}
+.page-media .views-field-title a{
+    color:#EDE5DB;
+}
+.page-node-4 .left a{
+    color:red;
+}
+.page-node-4 .btn-primary{
+    margin-top:2%;
+    margin-bottom: 2rem;
+}
+
+
+.views_slideshow_cycle_main {
+  width: 100%;
+  float: left;
+}
+.views_slideshow_cycle_main .views-slideshow-cycle-main-frame {
+  width: 100% !important;
+  height: auto !important;
+}
+.views_slideshow_cycle_main .views-slideshow-cycle-main-frame-row {
+  width: 100% !important;
+  height: auto !important;
+}
+.views_slideshow_cycle_main .field-content {
+  max-width: 100%;
+  width: 100%;
+  height:auto;
+}
+.views_slideshow_cycle_main .field-content img {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.front #block-views-testimonials-block{
+    background:#402C00;
+    color:black;
+    padding:0% 2% 2%;
+}
+.front .view-testimonials{
+    border:1px solid black;
+    padding:0 2%;
+}
+.front .view-testimonials{
+    height:330px;
+    overflow-y:scroll;
+    background:white;
+}
+.front .view-testimonials .views-row{ 
+    margin:2% 0 3%;
+}
+.front .view-testimonials a{
+    color:red;
+}
+.front #block-views-testimonials-block h2{
+    margin-top:12px;
+    color:white;
+}
+
+@media (max-width: 600px) {
+    .hunt-pic{
+        width:90%;
+        margin:4%;
+    }    
+    .page-node-20 .view-footer .btn, .page-node-32 .view-footer .btn, .page-node-11 .view-footer .btn, .page-node-12 .view-footer .btn, .page-node-9 .view-footer .btn{
+        margin-right:0;
+        margin-bottom:3%;
+        width:100%;
+    }
+}
+@media(max-width: 768px) {
+	.col-sm-3.margin-bottom{
+		margin-bottom: 10%;
+	}
+	header{
+		border-radius: 0;
+	}
+    header#navbar ul.navbar-nav li a{
+        font-size: 18px;
+        text-align:center;
+    }
+    .top-rotator.container{
+        display:none;
+    }
+    #navbar .navbar-header{
+        background:url('../images/redwing-logo.png') no-repeat;
+        height:150px;
+        background-size:180px 130px;
+        background-position-x:3%;
+        background-position-y:7px;
+    }
+    button.navbar-toggle{
+        height:35%;
+        width:10%;
+        margin-top:7%;
+        margin-bottom:5%;
+        margin-right:6%;
+    }
+    .navbar-toggle .icon-bar{
+        width:50px;
+        height:3px;
+    }
+}
+@media(min-width:768px){
+    .view-archery-elk-gallery .views-row{
+        max-height: 253px;
+    }
+
+    .page-node-32 .view-archery-elk-gallery .views-row img, .page-node-11 .view-archery-elk-gallery .views-row img, .page-node-12 .view-archery-elk-gallery .views-row img, .page-node-13 .view-archery-elk-gallery .views-row img, .page-node-20 .view-archery-elk-gallery .views-row img, .page-node-9 .views-row img, .page-hunts-archery-elk .views-row img, .page-hunts-rifle-elk .views-row img, .page-hunts-aoudad .views-row img, .page-hunts-mule-deer .views-row img {
+      height: 130px;
+    }
+    .hunt-pic {
+      margin-bottom: 2rem;
+      width: 33%;
+      float: left;
+      margin-right: 3px;
+    }
+
+    .view-front-rotator img { height: auto !important; }
+}
+@media(max-width:970px){
+    #navbar ul.navbar-nav li a{
+        font-size:9px;    
+    }
+}
+@media (max-width:992px){   
+    .top-rotator.container{
+        height:176px !important;
+    }
+}
+@media (max-width:1200px){
+    .top-rotator.container{
+        height:228px;
+    }    
+}
+@media (max-width:1210px){
+    #navbar ul.navbar-nav li a{
+        font-size:14px;
+    }
+}
+.page-hunts-gallery-aoudad .views-row-7, .page-hunts-gallery-javelina .views-row-5{
+    display: none;
+}
