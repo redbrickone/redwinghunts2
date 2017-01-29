@@ -383,3 +383,7 @@ a.navbar-brand{
 .page-hunts-gallery-aoudad .views-row-7, .page-hunts-gallery-javelina .views-row-5{
     display: none;
 }
+
+.page-node-435 {
+  background: blue !important;
+}
